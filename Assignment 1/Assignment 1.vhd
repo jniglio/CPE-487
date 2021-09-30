@@ -2,7 +2,7 @@
 -- VHDL model for tri state driver				  
 -- by Weijun Zhang, 05/2001
 --
--- this friver often used to control system outputs
+-- this driver often used to control system outputs
 -- http://esd.cs.ucr.edu/labs/tutorial/tri_driver.vhd
 ---------------------------------------------------------
 
